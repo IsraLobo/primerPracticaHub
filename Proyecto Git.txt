@@ -1,7 +1,5 @@
 Proyecto Git 
 
-Ahora ya gregamos una modificacion en el TXT
-
 La vida es bella en Edilar
 
 Solo no se lo degas a esa mujer mantenlo en secreto
